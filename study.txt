@@ -1,0 +1,3 @@
+C:\Users\admin\.gradle\wrapper\dists
+
+chrome-extension://aejoelaoggembcahagimdiliamlcdmfm/restlet_client.html
